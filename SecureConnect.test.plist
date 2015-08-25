@@ -24,7 +24,7 @@
            <key>metadata</key>   
            <dict>   
                <key>bundle-identifier</key>   
-               <string>com.netentsec.SecureConnect</string>
+               <string>add</string>
                <key>bundle-version</key>   
                <string>4.2.20</string>   
                <key>kind</key>   
